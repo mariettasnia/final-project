@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="500">
+  <tr>
+    <td height="30"><a href="../index.html">HOME</a>  <a href="../menu.html">MENU</a> <a href="../our-story.html">OUR STORY</a> <a href="../location.html">LOCATION</a> <a href="../where-seen.html">WHERE YOU'VE SEEN US</a></td>
+  </tr>
+  <tr>
+    <td height="37"><!-- TemplateBeginEditable name="banner" -->banner<!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td height="267"><!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+</body>
+</html>

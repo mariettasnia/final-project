@@ -9,16 +9,16 @@
 <!-- TemplateEndEditable -->
 </head>
 
-<body>
-<table width="500">
+<body> 
+<table width="576">
   <tr>
-    <td height="30"><a href="../index.html">HOME</a>  <a href="../menu.html">MENU</a> <a href="../our-story.html">OUR STORY</a> <a href="../location.html">LOCATION</a> <a href="../where-seen.html">WHERE YOU'VE SEEN US</a></td>
+    <td width="568" height="30"><a href="../index.html">HOME</a>  <a href="../menu.html">MENU</a> <a href="../our-story.html">OUR STORY</a> <a href="../hours.html">HOURS</a> <a href="../where-seen.html">WHERE YOU'VE SEEN US</a></td> 
   </tr>
   <tr>
     <td height="37"><!-- TemplateBeginEditable name="banner" -->banner<!-- TemplateEndEditable --></td>
   </tr>
   <tr>
-    <td height="267"><!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></td>
+    <td height="267"> <!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></td>
   </tr>
 </table>
 </body>

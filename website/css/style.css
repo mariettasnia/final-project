@@ -3,21 +3,20 @@
 	{
 	float: left;
 	margin-right: auto px;
-	margin-left:auto px;
+	margin-left: auto px;
 	margin-bottom: 35px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 	}body {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	background-color: #21825b;
 	line-height: 30px;
 }
-.wrapper {
-	width: 950px;
-	margin-left: auto;
-	margin-right: auto;
-}
+
+
+
 td {
-	background-color: #00AE68;
+	background-color: #55c195;
 	vertical-align: top;
 	text-align: center;
 }

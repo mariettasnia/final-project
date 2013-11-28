@@ -16,7 +16,7 @@
     <td width="568" height="30"><a href="../index.html">HOME</a>  <a href="../menu.html">MENU</a> <a href="../our-story.html">OUR STORY</a> <a href="../hours.html">HOURS</a> <a href="../location.html">LOCATION</a></td> 
   </tr>
   <tr>
-    <td height="37"><!-- TemplateBeginEditable name="banner" -->banner<!-- TemplateEndEditable --></td>
+    <td height="37"><img src="../images/ban2.jpg" width="577" height="46" alt=""/></td>
   </tr>
   <tr>
     <td height="267"> <!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></td>

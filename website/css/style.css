@@ -13,8 +13,10 @@
 	line-height: 30px;
 }
 
-
-
+  .wrapper {
+	  width:950;
+	  margin-left:auto;
+	  margin-right:auto;}
 td {
 	background-color: #55c195;
 	vertical-align: top;

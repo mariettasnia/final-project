@@ -10,17 +10,19 @@
 <link href="../css/style.css" rel="stylesheet" type="text/css">
 </head>
 
-<body> 
-<table width="576">
-  <tr>
-    <td width="568" height="30"><a href="../index.html">HOME</a>  <a href="../menu.html">MENU</a> <a href="../our-story.html">OUR STORY</a> <a href="../hours.html">HOURS</a> <a href="../location.html">LOCATION</a></td> 
-  </tr>
-  <tr>
-    <td height="37"><img src="../images/ban2.jpg" width="577" height="46" alt=""/></td>
-  </tr>
-  <tr>
-    <td height="267"> <!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></td>
-  </tr>
-</table>
+<body>
+<div class="wrapper">
+  <table width="950">
+    <tr>
+      <td ><a href="../index.html">HOME</a>  <a href="../menu.html">MENU</a> <a href="../our-story.html">OUR STORY</a> <a href="../hours.html">HOURS</a> <a href="../location.html">LOCATION</a></td> 
+    </tr>
+    <tr>
+      <td><!-- TemplateBeginEditable name="Banner" -->Banner<!-- TemplateEndEditable --></td>
+    </tr>
+    <tr>
+      <td > <!-- TemplateBeginEditable name="content" --><!-- TemplateEndEditable --></td>
+    </tr>
+  </table>
+</div>
 </body>
 </html>
